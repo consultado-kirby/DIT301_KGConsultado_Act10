@@ -55,7 +55,7 @@ User Interface & User Experience
 SCREENSHOTS >>
 
 <div style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
-  <img src="screenshots/add_task.jpg" alt="Add Task" width="275" />
-  <img src="screenshots/task_list.jpg" alt="Task List" width="275" />
-  <img src="screenshots/delete_task.jpg" alt="Delete Task" width="275" />
+  <img src="screenshots/add_task.jpg" alt="Add Task" width="250" />
+  <img src="screenshots/task_list.jpg" alt="Task List" width="250" />
+  <img src="screenshots/delete_task.jpg" alt="Delete Task" width="250" />
 </div>
